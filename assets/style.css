@@ -6,7 +6,27 @@
 	float: left;
 }
 
+
+/*font formatting*/
+
+.fntwhite {
+	color: white;
+}
+
+.fntteal {
+	color: #4aaaa5;
+}
+
+.brteal {
+	background-color: #4aaaa5;
+}
+
+
+
 /*add concrete background*/
 body {
 	background;
 }
+
+
+/* add hover over nav links to #4aaaa5 */
