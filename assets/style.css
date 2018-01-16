@@ -4,29 +4,44 @@
 	box-sizing: border-box;
 }
 
-.floatleft {
-	float: left;
+.navbar-default {
+	background-color: #ffffff;
 }
 
-.brdrleft{
-	border-left: 1px solid #efefef;
+.navbar-brand {
+	background-color: #4aaaa5;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 5px;
+	font-size: x-large;
 }
 
-.brdrgry {
-	border-color: solid #4aaaa5;
+.navbar-collapse {
+	margin-top: 5px;
+}
+
+.panel-footer {
+	background-color: #666666;
+	color: #ffffff;
+}
+
+.btn-default {
+	background-color: #4aaaa5;
+	color: #ffffff;
+}
+
+#txtwhite {
+	color: #ffffff;
 }
 
 .brteal
 
 /*font formatting*/
 
-.fntwhite {
-	color: white;
-}
 
 .fntteal {
 	color: #4aaaa5;
-}k
+}
 
 .brteal {
 	background-color: #4aaaaf;
@@ -40,5 +55,14 @@
 
 /* object properties */
 
+h2 {
+	border-bottom: 2px solid #dddddd;
+	padding: 20px;
+	color: #4aaaa5;
+}
 
 /* add hover over nav links to #4aaaa5 */
+
+.activepage {
+	background-color: #4aaaa5;
+}
