@@ -1,11 +1,22 @@
 
 
-
+* {
+	box-sizing: border-box;
+}
 
 .floatleft {
 	float: left;
 }
 
+.brdrleft{
+	border-left: 1px solid #efefef;
+}
+
+.brdrgry {
+	border-color: solid #4aaaa5;
+}
+
+.brteal
 
 /*font formatting*/
 
@@ -15,18 +26,19 @@
 
 .fntteal {
 	color: #4aaaa5;
-}
+}k
 
 .brteal {
-	background-color: #4aaaa5;
+	background-color: #4aaaaf;
 }
-
 
 
 /*add concrete background*/
-body {
-	background;
+.cement {
+	background-image: url("images/concrete_seamless.png");
 }
+
+/* object properties */
 
 
 /* add hover over nav links to #4aaaa5 */
