@@ -34,8 +34,6 @@
 	color: #ffffff;
 }
 
-.brteal
-
 /*font formatting*/
 
 
@@ -51,6 +49,13 @@
 /*add concrete background*/
 .cement {
 	background-image: url("images/concrete_seamless.png");
+	margin-bottom:0px;
+	padding-bottom: 80px;
+}
+
+.tealbar {
+	height: 10px:
+	background-color: #4aaaa5;
 }
 
 /* object properties */
