@@ -20,6 +20,10 @@
 	margin-top: 5px;
 }
 
+.btmpadding {
+	padding-bottom: 20px;
+}
+
 .panel-footer {
 	background-color: #666666;
 	color: #ffffff;
@@ -53,10 +57,6 @@
 	padding-bottom: 80px;
 }
 
-.tealbar {
-	height: 10px:
-	background-color: #4aaaa5;
-}
 
 /* object properties */
 
@@ -66,8 +66,20 @@ h2 {
 	color: #4aaaa5;
 }
 
+.carousel-caption {
+	background-color: #4aaaa5;
+	padding:10px;
+
+}
+
+.bordertopteal {
+	border-top: 5px solid #4aaaa5;
+}
+
+
 /* add hover over nav links to #4aaaa5 */
 
 .activepage {
 	background-color: #4aaaa5;
+	color: white !important;
 }
