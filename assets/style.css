@@ -14,10 +14,13 @@
 	padding-right: 20px;
 	margin-top: 5px;
 	font-size: x-large;
+	color: #ffffff !important;
+	font-family:'Georgia', Times, Times New Roman, serif;
 }
 
 .navbar-collapse {
 	margin-top: 5px;
+	font-family:'Georgia', Times, Times New Roman, serif;
 }
 
 .btmpadding {
@@ -34,12 +37,13 @@
 	color: #ffffff;
 }
 
-#txtwhite {
-	color: #ffffff;
-}
+
 
 /*font formatting*/
 
+h1, h2, h3, h4 {
+	font-family:'Georgia', Times, Times New Roman, serif;
+}
 
 .fntteal {
 	color: #4aaaa5;
@@ -112,3 +116,18 @@ li a:hover  {
 	border-bottom: none;
 }
 
+p {
+	color: #777777;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: medium;
+}
+
+.fontwhite {
+	color: #ffffff !important;
+}
+
+label {
+	color: #777777;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: large;
+}
