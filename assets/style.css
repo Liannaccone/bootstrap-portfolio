@@ -83,3 +83,18 @@ h2 {
 	background-color: #4aaaa5;
 	color: white !important;
 }
+
+.navbar-brand:hover {
+	background-color: #4aaaa5 !important;
+}
+
+
+
+a:hover  {
+       background-color: #4aaaa5 !important;
+       color:white !important;
+ }
+
+ .carousel-caption {
+ 	width:;
+ }
