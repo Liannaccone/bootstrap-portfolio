@@ -66,6 +66,14 @@ h2 {
 	color: #4aaaa5;
 }
 
+ h3 {
+	color: #4aaaa5 !important;
+	font-size: large !important;
+	text-align: center;
+	padding: 15px;
+	border-bottom: 2px solid #dddddd;
+}
+
 .carousel-caption {
 	background-color: #4aaaa5;
 	padding:10px;
@@ -90,11 +98,17 @@ h2 {
 
 
 
-a:hover  {
+li a:hover  {
        background-color: #4aaaa5 !important;
        color:white !important;
  }
 
- .carousel-caption {
- 	width:;
- }
+
+.panel-heading, .panel-title {
+	background-color: #ffffff !important;
+}
+
+.panel-default > .panel-heading{
+	border-bottom: none;
+}
+
